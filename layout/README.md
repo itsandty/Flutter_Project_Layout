@@ -1,6 +1,6 @@
 # layout
 
-A new Flutter project.
+แก้ไขการเรียกไฟล์ json จาก local เป็น github แทน
 
 ## Getting Started
 
